@@ -1,0 +1,23 @@
+.main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.first{
+  width:400px;
+  height:200px;
+  color:black;
+  font-size: 12px;
+  margin:10px;
+
+}
+
+.second{
+  width:350px;
+  height:300px;
+  border: 7px solid blue;
+  color:black;
+  padding:20px;
+  font-size: 12px;
+}
